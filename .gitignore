@@ -1,0 +1,8 @@
+.DS_Store
+
+Gomobile.framework
+Gomobile.framework.zip
+gomobile.aar
+gomobile-sources.jar
+
+.idea/
