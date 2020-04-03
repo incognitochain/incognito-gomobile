@@ -1,3 +1,5 @@
+## Replace incognito-chain/wasm/gomobile folder with this gomobile folder then build in incognito-chain/wasm/gomobile path
+
 When you build gomobile for Android/iOS, maybe you see these following issues:
 
 1. panic: read proc auxv failed: open /proc/self/auxv: permission denied:
